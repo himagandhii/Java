@@ -1,0 +1,27 @@
+/* Arithmetic Operators:
+1. Addition(+)
+2. Subtraction(-)
+3. Multiplication(*)
+4. Division(/)
+5. Modulus(%)
+ */
+
+public class First {
+int num1 = 50;
+int num2 = 5;
+int sum = num1 + num2;
+int subtract = num1 - num2;
+int multiply = num1 * num2;
+int divion = num1/num2;
+int modulus = num1 % num2;
+public static void main(String[] args)
+{
+    First a = new First();
+    System.out.println("First Number: " + a.num1 + "\nSecond Number: " + a.num2);
+    System.out.println("The Addition is = " + a.sum);
+    System.out.println("The Subtraction is = " + a.subtract);
+    System.out.println("The Multiplication is = " + a.multiply);
+    System.out.println("The Division is = " + a.divion);
+    System.out.println("The Modulus is = " + a.modulus);
+}
+}
