@@ -1,0 +1,13 @@
+public class Break {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 10; i++)           // for loop to print numbers
+        {
+            System.out.println(i);              //to print
+
+            if (i == 5)                         //given number to found
+            {
+                break;                           //terminate loop
+            }
+        }
+    }
+}
