@@ -1,7 +1,7 @@
 // Create a stone paper scissor game with if else statements.
-// Take input from 2 players.
+// Take input from 2 players.Run the game 5 times.
 // And print the results.
-//Rules: (1) From Rock and Scissor -> Rock wins.
+//Rules:- (1) From Rock and Scissor -> Rock wins.
 //       (2) From Paper and Rock -> Paper wins.
 //       (3) From Scissor and Paper -> Scissor wins.
 
