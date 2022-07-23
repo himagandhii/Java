@@ -2,8 +2,8 @@
 // Take input from 2 players.
 // And print the results.
 //Rules: (1) From Rock and Scissor -> Rock wins.
-//       (2) From Paper and Rock -> Paper wins
-//       (3) From Scissor and Paper -> Scissor wins
+//       (2) From Paper and Rock -> Paper wins.
+//       (3) From Scissor and Paper -> Scissor wins.
 
 
 import java.util.Scanner;
