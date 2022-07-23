@@ -14,8 +14,8 @@ class Function{
     }
     public static void main(String[] args)
     {
-      UseFun m = new UseFun();  //creating object for UseFun class
-      m.method1();
+      UseFun m = new UseFun();  //creating object for UseFun class.
+      m.method1(); 
       m.method();
       method2();
     }
