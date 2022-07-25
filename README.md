@@ -8,4 +8,5 @@
 <li>Assignment 4 : If,If-else, Nested If-else, If-else ladders, Switch, Data type conversion, Ascii Code, Grading System, Stone/Paper/Scissor Game
 <li>Assignment 5 : Loops, Entry Controlled loops, Exit Controlled Loops </li>
 <li>Assignment 6 : Logic building exercises, Control flow statements: Break,Continue. Game updated</li>
+<li>Assignment 7 : Logic building exercises, control flow statements: jump statements:- a)break b)continue </li>
 </ul>
