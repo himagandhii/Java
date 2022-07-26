@@ -9,4 +9,5 @@
 <li>Assignment 5 : Loops, Entry Controlled loops, Exit Controlled Loops </li>
 <li>Assignment 6 : Logic building exercises, Control flow statements: Break,Continue. Game updated</li>
 <li>Assignment 7 : Logic building exercises, control flow statements: jump statements:- a)break b)continue </li>
+<li>Assignment 8 : Stirngs, Common string operations.
 </ul>
