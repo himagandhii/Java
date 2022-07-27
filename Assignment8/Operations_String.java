@@ -29,7 +29,7 @@ public class Operations_String
       // (3) To find substring in a string ->substring()
 
         System.out.println("Length of substring: " + s.substring(20,29));
-        System.out.println("Length of substring: " + s2.substring(32));
+        System.out.println("Length of substring: " + s2.substring(30,43));
 
       // (4) Contains operation ->contains()
 
@@ -70,10 +70,9 @@ public class Operations_String
 
       //  (13) To convert different type of data type in string
 
-       /* int a = 18.28;
-        //System.out.println(" Value of : "  + a.valueOf());
-
-        */
+        float f = 18.28f;
+        String s4 = String.valueOf(f);
+        System.out.println("Value of : "  + s4 );  //converting float value to string
 
     }
 }
