@@ -2,8 +2,7 @@ import java.util.Scanner;
 public class ATM_Machine
 {
 
-    static int PrincipalAmount = 0;
-    static int Balance = 0;
+   static int Balance = 0;
 
     static void withdraw()
       {
