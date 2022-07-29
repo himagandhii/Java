@@ -11,4 +11,5 @@
 <li>Assignment 7 : Logic building exercises, control flow statements: jump statements:- a)break b)continue </li>
 <li>Assignment 8 : Strings, Common string operations </li>
 <li>Assignment 9 : ATM Machine </li>
+<li>Assignment 10: Quiz game </li>
 </ul>
