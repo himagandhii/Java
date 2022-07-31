@@ -8,7 +8,7 @@
 <li>Assignment 4 : If,If-else, Nested If-else, If-else ladders, Switch, Data type conversion, Ascii Code, Grading System, Stone/Paper/Scissor Game
 <li>Assignment 5 : Loops, Entry Controlled loops, Exit Controlled Loops </li>
 <li>Assignment 6 : Logic building exercises, Control flow statements: Break,Continue. Game updated</li>
-<li>Assignment 7 : Logic building exercises, control flow statements: jump statements:- a)break b)continue </li>
+<li>Assignment 7 : Logic building exercises, Fibonacci series, Pyramid, ReverseNumber, Sum of digits </li>
 <li>Assignment 8 : Strings, Common string operations </li>
 <li>Assignment 9 : ATM Machine </li>
 <li>Assignment 10: Quiz game </li>
