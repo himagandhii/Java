@@ -13,5 +13,5 @@
 <li>Assignment 9 : ATM Machine </li>
 <li>Assignment 10: Quiz game </li>
 <li>Assignment 11: Task </li>
-<li>Assignment 11: Arrays: 1-D, 2-D </li>
+<li>Assignment 12: Arrays: 1-D, 2-D </li>
 </ul>
