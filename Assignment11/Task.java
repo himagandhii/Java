@@ -1,6 +1,6 @@
-// Consider first N even natural numbers srating from zero(0).
-// Complete the code segment to calculate sum of all the natural numers divisible by 3 from 0 to n.
-//Print the sum.
+// Consider first N even natural numbers starting from zero(0).
+// Complete the code segment to calculate sum of all the natural numbers divisible by 3 from 0 to n.
+// Print the sum.
 
 import java.util.Scanner;
 class Task
