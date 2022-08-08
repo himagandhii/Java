@@ -26,7 +26,7 @@ Loops, Entry Controlled loops, Exit Controlled Loops
 ```
 ### *Assignment 6 :*
 ```
-Logic building exercises, Control flow statements: Break,Continue. Game updated 
+Logic building exercises, Control flow statements: Break, Continue. Game updated 
 ```
 ### *Assignment 7 :*
 ```
@@ -67,4 +67,16 @@ Inheritance: Single, Multilevel, Hierarchial, Super Keyword
 ### *Assignment 16:* 
 ```
 Implementing interfaces, Date & Calendar classes 
+```
+### *Assignment 17:* 
+```
+Exceptions, Need for exceptions, In-built exceptions, Handling exceptions, Throwing exceptions
+```
+### *Assignment 18:* 
+```
+Multi-threading, Thread life cycle, Thread using Inheritance, Thread using interface 
+```
+### *Assignment 19:* 
+```
+File Handling, Types of File Handling, Input & Output using file handling, Installation of Apache Netbeans, Xampp Control Panel 
 ```
