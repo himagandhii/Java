@@ -5,11 +5,11 @@ public class LinearSearch
 {
     public static void main(String[] args)
     {
-        int i;
+        int i, key,size;
         Scanner s = new Scanner(System.in);
         System.out.println("Enter the size of the array: ");
-        int size = s.nextInt();
-        int[] array = new int[100];
+        size = s.nextInt();
+        int[] array = new int[size];
 
         System.out.println("Enter array elements: ");
         for(i = 0; i < size; i++)
@@ -23,17 +23,17 @@ public class LinearSearch
         }
         System.out.println();
         System.out.println("Enter element you want to find : ");
-        int num = s.nextInt();
+         key = s.nextInt();
 
         for(i = 0; i < size; i++)
         {
-            if (num == array[i])
+            if (array[i] == key)
             {
                 System.out.println("Number found at index: " + i);
                 break;
             }
         }
-        if ( i == size)
+        if (size == i)
             {
                 System.out.println("Number not found");
             }
