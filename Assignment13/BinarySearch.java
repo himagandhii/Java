@@ -3,12 +3,12 @@
 import java.util.Scanner;
 public class BinarySearch {
     public static void main(String[] args) {
-        int temp, i;
+        int temp, i, size;
         Scanner s = new Scanner(System.in);
 
         System.out.println("Enter the size of the array: ");
-        int size = s.nextInt();
-        int[] array = new int[100];
+        size = s.nextInt();
+        int[] array = new int[size];
 
         System.out.println("Enter numbers to be sorted: ");
         for (i = 0; i < size; i++) {
@@ -29,33 +29,36 @@ public class BinarySearch {
 
 
         System.out.println("Enter element you want to find : ");
-        int num = s.nextInt();
+        int key = s.nextInt();
 
         int first = 0;
-        int mid = (first + size) / 2;
+        int end = size;
 
-        while (first <= size)
+
+        while (first <= end)
         {
-            if (num > array[mid])
-                {
-                    first = mid + 1;
-                }
-
-        else if (num == array[mid])
-                {
+            int mid = (first +  end) / 2;
+            if (key == array[mid])
+            {
                 System.out.println("Element found at position " + mid);
                 break;
-                }
+            }
+
+        else if (key > array[mid])
+            {
+                first = mid + 1;
+            }
         else
                 {
-                size = mid - 1;
+                end = mid - 1;
                 }
-         mid = (first + size )/2;
+
         }
 
-        if (first > size) {
+        if (first > end) {
             System.out.println("Number not found");
         }
 
     }
 }
+
